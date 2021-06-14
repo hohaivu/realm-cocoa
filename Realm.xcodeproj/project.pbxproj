@@ -2768,6 +2768,8 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 5D659E761BE03E0D006515A0 /* Realm.xcconfig */;
 			buildSettings = {
+				CURRENT_PROJECT_VERSION = 10.7.8;
+				MARKETING_VERSION = 10.7.8;
 			};
 			name = Debug;
 		};
@@ -2775,6 +2777,8 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 5D659E761BE03E0D006515A0 /* Realm.xcconfig */;
 			buildSettings = {
+				CURRENT_PROJECT_VERSION = 10.7.8;
+				MARKETING_VERSION = 10.7.8;
 			};
 			name = Release;
 		};
@@ -2782,6 +2786,8 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 5D660FBD1BE98BEF0021E04F /* RealmSwift.xcconfig */;
 			buildSettings = {
+				CURRENT_PROJECT_VERSION = 10.7.8;
+				MARKETING_VERSION = 10.7.8;
 			};
 			name = Debug;
 		};
@@ -2789,6 +2795,8 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 5D660FBD1BE98BEF0021E04F /* RealmSwift.xcconfig */;
 			buildSettings = {
+				CURRENT_PROJECT_VERSION = 10.7.8;
+				MARKETING_VERSION = 10.7.8;
 			};
 			name = Release;
 		};
@@ -2896,6 +2904,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 5D659E6E1BE0398E006515A0 /* Debug.xcconfig */;
 			buildSettings = {
+				MACOSX_DEPLOYMENT_TARGET = 9.0;
 			};
 			name = Debug;
 		};
@@ -2903,6 +2912,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 5D659E6F1BE0398E006515A0 /* Release.xcconfig */;
 			buildSettings = {
+				MACOSX_DEPLOYMENT_TARGET = 9.0;
 			};
 			name = Release;
 		};
